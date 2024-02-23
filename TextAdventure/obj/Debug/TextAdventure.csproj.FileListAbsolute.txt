@@ -1,0 +1,13 @@
+D:\Ali\Portfolio\Programming\TextAdventure\bin\Debug\TextAdventure.exe.config
+D:\Ali\Portfolio\Programming\TextAdventure\bin\Debug\TextAdventure.exe
+D:\Ali\Portfolio\Programming\TextAdventure\bin\Debug\TextAdventure.pdb
+D:\Ali\Portfolio\Programming\TextAdventure\bin\Debug\Engine.dll
+D:\Ali\Portfolio\Programming\TextAdventure\bin\Debug\Engine.pdb
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.csproj.AssemblyReference.cache
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.Properties.Resources.resources
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.TextAdventure.resources
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.csproj.GenerateResource.cache
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.csproj.CoreCompileInputs.cache
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdve.A50AB6E6.Up2Date
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.exe
+D:\Ali\Portfolio\Programming\TextAdventure\obj\Debug\TextAdventure.pdb
